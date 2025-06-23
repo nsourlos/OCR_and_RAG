@@ -1,0 +1,12 @@
+pdf2image==1.17.0
+#pdfminer #Do not add based on #https://github.com/pdfminer/pdfminer.six/issues/881
+pdfminer.six==20250324
+openai==1.68.2
+#scikit-learn==1.6.1
+rich==13.9.4
+tqdm==4.67.1
+#pandas==2.2.3
+python-dotenv==1.1.0
+langsmith==0.1.128
+
+#pytesseract==0.3.13
